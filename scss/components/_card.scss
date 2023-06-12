@@ -3,6 +3,7 @@
   padding: $base-padding;
   border: $base-border-thickness solid #ddd;
   box-shadow: $base-box-shadow;
+  max-width: 400px;
 
   .card__title {
     font-size: $font-size-lg;
